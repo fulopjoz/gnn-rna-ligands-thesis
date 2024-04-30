@@ -1,0 +1,1 @@
+{"hidden_dim": 161, "aggregator_type": "gcn", "dropout_rate": 0.17849088738569657, "lr": 0.0017109241223601886, "batch_size": 128}
