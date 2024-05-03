@@ -1,1 +1,1 @@
-{"hidden_dim": 102, "num_heads": 1, "dropout_rate": 0.3591950794854715, "negative_slope": 0.19797076052317414, "lr": 0.0003407099266834378, "batch_size": 64}
+{"hidden_dim": 58, "num_heads": 16, "dropout_rate": 0.11014256281750023, "negative_slope": 0.06316332777928013, "lr": 0.00022824563775689725, "batch_size": 128}

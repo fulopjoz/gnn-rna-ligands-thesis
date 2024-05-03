@@ -1,1 +1,1 @@
-{"n_steps": 1, "hidden_dim": 148, "lr": 0.00023937743696111473, "batch_size": 64, "dropout_rate": 0.400530833939756}
+{"n_steps": 3, "hidden_dim": 246, "lr": 0.0004751735028650879, "batch_size": 128, "dropout_rate": 0.36640131489993255}

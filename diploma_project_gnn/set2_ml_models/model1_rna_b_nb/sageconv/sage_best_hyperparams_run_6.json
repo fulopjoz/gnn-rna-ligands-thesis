@@ -1,1 +1,1 @@
-{"hidden_dim": 134, "aggregator_type": "lstm", "dropout_rate": 0.07063602989980483, "lr": 0.01339387714578267, "batch_size": 128}
+{"hidden_dim": 120, "aggregator_type": "lstm", "dropout_rate": 0.13640618873194632, "lr": 0.003379764546251136, "batch_size": 256}

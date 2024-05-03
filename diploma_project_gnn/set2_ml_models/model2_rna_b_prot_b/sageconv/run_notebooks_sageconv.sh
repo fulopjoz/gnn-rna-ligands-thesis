@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the directory containing the Jupyter Notebooks
-NOTEBOOK_DIR="/home/xfulop/mvi/diploma_project_gnn/set2_ml_models/model2_rna_b_prot_b/sageconv"
+NOTEBOOK_DIR="/home/dodo/Download/diplomka_output/mvi/diploma_project_gnn/set2_ml_models/model2_rna_b_prot_b/sageconv/"
 
 # Activate the Python environment if necessary
 # source /path/to/env/bin/activate

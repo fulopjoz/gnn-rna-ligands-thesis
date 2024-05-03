@@ -1,1 +1,1 @@
-{"hidden_dim": 181, "aggregator_type": "pool", "dropout_rate": 0.03471389799304414, "lr": 0.0012611218492215507, "batch_size": 64}
+{"hidden_dim": 93, "aggregator_type": "mean", "dropout_rate": 0.004994463683556029, "lr": 0.001291434590145859, "batch_size": 512}

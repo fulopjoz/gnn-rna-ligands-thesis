@@ -1,1 +1,1 @@
-{"hidden_dim": 130, "aggregator_type": "pool", "dropout_rate": 0.08665757003351404, "lr": 0.003317098466665311, "batch_size": 64}
+{"hidden_dim": 35, "aggregator_type": "gcn", "dropout_rate": 0.030068411033668307, "lr": 0.01841586158531919, "batch_size": 128}
